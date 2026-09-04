@@ -6,8 +6,8 @@ first_name = "Matt"
 last_name = "Pham"
 age = "34"
 city = "Santa Ana"
-career = "Home Care Aide"
-code_reason = "To become a junior ai engineer"
+career = "AI ENGINEER"
+code_reason = "To become the very best!"
 fun_fact = "I love to produce music"
 
 print(f"Name         {first_name} {last_name}")
