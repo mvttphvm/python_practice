@@ -28,3 +28,4 @@ print(f"{f'Hotel. ({number_of_nights_stayed} nights @ ${average_hotel_cost_per_n
 print(f"{f'Food. ({number_of_nights_stayed+1} days @ ${daily_food_budget:.2f}/day):':<25}{f'${total_food_cost:.2F}':>10}")
 print("-" * 30)
 print(f"{f'Estimated Total:':<25}{f'${grand_total_cost:.2F}':>10}")
+
